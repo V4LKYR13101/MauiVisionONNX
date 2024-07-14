@@ -1,3 +1,7 @@
+I have amended the MAUI sample to use the community toolkit camera view. Just tap the viewfinder for the analysis.
+
+Please note that the heavy lifting of this was not done by me. I merely took components already developed to make the MAUI sample work similar to the version given in the sample repo for their Android studio project.
+
 # ONNX Runtime MAUI Vision Sample
 
 The [MAUI Vision Sample](MauiVisionSample.sln) demonstrates the use of two different vision models from the [ONNX Model Zoo collection](https://github.com/onnx/models/tree/main), by a [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) app.
